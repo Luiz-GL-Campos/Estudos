@@ -1,4 +1,4 @@
-package br.com.mirante.calculadora;
+package br.com.luiz.calculadora;
 
 import java.util.Scanner;
 
